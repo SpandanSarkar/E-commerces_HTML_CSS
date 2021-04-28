@@ -4,7 +4,7 @@ This is a sample E-commerce website made with HTML and CSS. Various kinds of pro
 
 To make this website I took help from EasyTutorials : https://www.youtube.com/channel/UCkjoHfkLEy7ZT4bA2myJ8xA
 
-This 2 page Websit is completely responsive.
+This 2 page Website is completely responsive.
 
 Special features : Some animations have added to make it iteractive.
 
